@@ -8,11 +8,11 @@ interface InterfaceExample{
     static final String staticFinalInterfaceName = "StaticFinalInterfaceName";
     public static final String publicStaticFinalInterfaceName = "PublicStaticFinalInterfaceName";
 
-    String privateMethod(){
+    private String privateMethod(){
         return "private";
     }
 
-    static String privateStaticMethod(){
+    private static String privateStaticMethod(){
         return "private static";
     }
 

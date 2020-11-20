@@ -1,8 +1,8 @@
 package pkga;
 
-import pkgb.SuperClass2;
+import pkgb.*;
 
-public class Quiz35 extends SuperClass2 {
+public class Quiz35 extends SuperClass1 {
     public static void main(String[] args) {
 
     }

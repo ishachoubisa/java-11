@@ -1,4 +1,4 @@
-package vegetables;
+package garden.vegetables;
 
 public class VineVegetable {
     public static void main(String[] args){
