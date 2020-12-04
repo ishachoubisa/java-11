@@ -27,7 +27,7 @@ import org.w3c.dom.ls.LSOutput;
  * hover over on i in third loop,and just outside the third loop where
  * we have written value of i after loop we got same error variable
  * i accessed from within inner class,needs to be final or effectively
- * final.
+ * final.So we will undo the change.
  */
 
 
